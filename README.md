@@ -32,4 +32,5 @@ Całością systemu można sterować zdalnie przy pomocy witryny internetowej na
 # Prezentacja
 
 Krótki film ukazujący możliwości makiety:
+
 [![Movie](https://img.youtube.com/vi/sFjCFTvsWlk/0.jpg)](https://www.youtube.com/watch?v=sFjCFTvsWlk)
